@@ -3,7 +3,8 @@ img {
      width: 200px;
 }
 body {
+     background-image:url(http://mirror2.cze.cz/textures/water-texture-3.jpg) ;
      background-color: lightblue;
      text-align: center;
-     font-family: "Verdana"
+     font-family: "Times New Roman"
 }
